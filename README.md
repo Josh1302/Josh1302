@@ -50,7 +50,7 @@ I'm inspired by the intersection of software, education, and social engagement. 
 
 ## 🌟 Let’s Connect
 
-- 📧 Email: josh1302@colostate.edu  
+- 📧 Email: josh.underwooddd@gmail.com  
 - 📱 Phone: (720)-202-4146  
 - 🔗 LinkedIn: [linkedin.com/in/joshua-underwood-084304223](https://linkedin.com/in/joshua-underwood-084304223)
 
