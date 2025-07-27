@@ -6,7 +6,6 @@ Hi, I'm Joshua — a passionate Computer Science graduate with a foundation in E
 
 **Colorado State University**  
 Bachelor of Science in Computer Science, Dec 2024  
-GPA: 3.0  
 _Coursework highlights:_ Cybersecurity, Machine Learning, Big Data Analysis, Web & Mobile App Development, Operating Systems, Algorithms
 
 **Louisiana State University**  
